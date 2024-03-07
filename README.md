@@ -6,8 +6,8 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/erkinar%C4%B1kan//#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/erkinar%C4%B1kan//#gh-dark-mode-only)
+<a href="-" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="angular" width="30" height="30"/> </a> 
+
 &nbsp;&nbsp;
 <a href="-" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
