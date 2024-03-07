@@ -7,9 +7,9 @@
 
 &nbsp;&nbsp;
 <a href="-" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="angular" width="30" height="30"/> </a> 
+<a href="-" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
 &nbsp;&nbsp;
-<a href="-" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
 ### Languages and Tools:
 <p align="left">
