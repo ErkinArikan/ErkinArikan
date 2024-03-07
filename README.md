@@ -34,8 +34,6 @@
  <br />
 
 ---
-
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arikanuguremre&show_icons=true&locale=en&layout=compact" alt="arikanuguremre" />
- <img  src="https://github-readme-stats.vercel.app/api?username=arikanuguremre&show_icons=true&locale=en" alt="arikanuguremre" />
-
+![ErkinArikan's Stats](https://github-readme-stats.vercel.app/api?username=ErkinArikan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ErkinArikan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErkinArikan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  
