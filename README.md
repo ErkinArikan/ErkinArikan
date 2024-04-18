@@ -7,6 +7,7 @@
 
 
 &nbsp;&nbsp;
+<a href="https://erkinarikan.vercel.app/" target="_blank" rel="noreferrer"> <img src="" alt="angular" width="30" height="30"/> </a> 
 <a href="https://www.linkedin.com/in/erkinar%C4%B1kan/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="angular" width="30" height="30"/> </a> 
 <a href="https://www.canva.com/design/DAF-18BejYA/xSfS-SfTMo_KHtDTzT0cOQ/view?utm_content=DAF-18BejYA&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
