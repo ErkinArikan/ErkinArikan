@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkin</h1>
 <h3 align="center">Software Engineer Candidate</h3>
 - 📖   Senior student at Atılım University - SWE Department
-<h4 align="center"> I am working on  IOS application 📱 for Atılım University</h4>
+<h4 align="center"> I am working on  IOS & Flutter application 📱 for Atılım University</h4>
 <h4 align="center"> You can see the preview video 🎬 👉 <a href="https://firebasestorage.googleapis.com/v0/b/ake-app-95045.appspot.com/o/Video%2FAke%20Final%20Video.mp4?alt=media&token=924d302c-08a8-44a8-b9aa-79aef8d61bac" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/ake-app-95045.appspot.com/o/LaunchIcon.png?alt=media&token=c69a16e5-432f-487c-a8f7-14665400f140" alt="angular" width="30" height="30"/> </a> </h4>
 ### Connect with me:
 
