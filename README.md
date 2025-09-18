@@ -4,12 +4,7 @@
 ### Connect with me:
 
 
-&nbsp;&nbsp;
-<a href="https://erkinarikan.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/ake-app-95045.appspot.com/o/4254664_cdn_globe_icon.png?alt=media&token=7be50c9f-ed83-4cff-b664-9c2fcbd9c073" alt="angular" width="30" height="30"/> </a> 
-<a href="https://www.linkedin.com/in/erkinar%C4%B1kan/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="angular" width="30" height="30"/> </a> 
-<a href="https://www.canva.com/design/DAF-18BejYA/xSfS-SfTMo_KHtDTzT0cOQ/view?utm_content=DAF-18BejYA&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 <p align="left">
